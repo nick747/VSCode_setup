@@ -2,7 +2,13 @@
 
 This repository contains a README.md file with my Visual Studio Code setup.
 
-# General editor settings
+## Screenshots
+![image](https://github.com/nick747/VSCode_setup/assets/84738664/b9ccdf9d-f550-436b-b32a-2ab4f453c7bd)
+---
+![image](https://github.com/nick747/VSCode_setup/assets/84738664/56ad9b4c-251b-4af5-af3d-8ff84014ee7b)
+
+
+## General editor settings
 
 The list is in order of what you see in the _Settings_ page on Visual Studio Code:
 
@@ -22,12 +28,12 @@ _skip some useless options_
 - **Minimap Autohide**: `disabled`;
 - **Minimap Enabled**: `disabled`;
 
-# Themes
+## Themes
 
 **Theme used**: `Material Theme Darker`;
 **File Icon theme**: `VSCcode Icons | vscode-icons`;
 
-# Extensions
+## Extensions
 
 - **Astro**;
 - **Better Comments**;
